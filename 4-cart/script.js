@@ -125,3 +125,5 @@ clearBtn.addEventListener("click", clearCart);
 
 renderProducts();
 renderCart();
+
+
