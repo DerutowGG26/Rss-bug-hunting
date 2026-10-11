@@ -68,3 +68,5 @@ resetBtn.addEventListener("click", () => {
 });
 
 render();
+
+
